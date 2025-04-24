@@ -1,4 +1,4 @@
-# LangChain Course
+# Agents SDK Course
 
 Welcome to the Agents SDK course by Aurelio AI!
 
