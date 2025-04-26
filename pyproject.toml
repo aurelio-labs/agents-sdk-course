@@ -8,6 +8,6 @@ dependencies = [
     "ipykernel>=6.29.5",
     "matplotlib>=3.10.1",
     "openai>=1.68.2",
-    "openai-agents[voice]==0.0.12",
+    "openai-agents[voice,litellm]==0.0.12",
     "sounddevice>=0.5.1",
 ]
