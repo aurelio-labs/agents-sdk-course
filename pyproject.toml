@@ -6,8 +6,9 @@ readme = "README.md"
 requires-python = ">=3.12.7"
 dependencies = [
     "ipykernel>=6.29.5",
+    "linkup-sdk>=0.2.4",
     "matplotlib>=3.10.1",
     "openai>=1.68.2",
-    "openai-agents[voice,litellm,viz]==0.0.13",
+    "openai-agents[voice,litellm]==0.0.13",
     "sounddevice>=0.5.1",
 ]
