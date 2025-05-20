@@ -10,5 +10,6 @@ dependencies = [
     "matplotlib>=3.10.1",
     "openai>=1.68.2",
     "openai-agents[voice,litellm]==0.0.13",
+    "semantic-router==0.1.8",
     "sounddevice>=0.5.1",
 ]
