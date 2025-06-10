@@ -5,10 +5,13 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12.7"
 dependencies = [
+    "datasets>=3.6.0",
     "ipykernel>=6.29.5",
     "linkup-sdk>=0.2.4",
     "matplotlib>=3.10.1",
     "openai>=1.68.2",
     "openai-agents[voice,litellm]==0.0.13",
+    "pinecone>=7.0.2",
+    "semantic-chunkers>=0.1.1",
     "sounddevice>=0.5.1",
 ]
