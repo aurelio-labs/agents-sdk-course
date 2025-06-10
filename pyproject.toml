@@ -13,5 +13,6 @@ dependencies = [
     "openai-agents[voice,litellm]==0.0.13",
     "pinecone>=7.0.2",
     "semantic-chunkers>=0.1.1",
+    "semantic-router==0.1.8",
     "sounddevice>=0.5.1",
 ]
