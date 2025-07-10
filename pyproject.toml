@@ -9,10 +9,9 @@ dependencies = [
     "ipykernel>=6.29.5",
     "linkup-sdk>=0.2.4",
     "matplotlib>=3.10.1",
-    "openai>=1.68.2",
     "openai-agents[voice,litellm]==0.1.0",
     "pinecone>=7.0.2",
     "semantic-chunkers>=0.1.1",
-    "semantic-router==0.1.8",
+    "semantic-router==0.1.9",
     "sounddevice>=0.5.1",
 ]
