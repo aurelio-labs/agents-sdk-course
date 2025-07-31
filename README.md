@@ -21,6 +21,7 @@ Once `uv` is installed and available in your terminal you can navigate to the co
 ```
 uv python install 3.12.7
 uv venv --python 3.12.7
+source .venv/bin/activate
 uv sync
 ```
 
